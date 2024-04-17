@@ -1,0 +1,55 @@
+{
+    "Courses": [
+      {
+        "id": 1,
+        "course": "Cloud Computing",
+        "img": "https://learn.microsoft.com/en-us/training/achievements/design-secure-environment-government.svg",
+        "description": "typicode",
+        "mode": "online"
+      },
+      {
+        "id": 2,
+        "course": "Machine Learning",
+        "img": "https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg",
+        "description": "bvxdfbdf",
+        "mode": "online"
+      },
+      {
+        "id": 3,
+        "course": "Robotics",
+        "img": "https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg",
+        "description": "bdfndf",
+        "mode": "offline"
+      },
+      {
+        "id": 4,
+        "course": "Web development",
+        "img": "https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg",
+        "description": "dshsf",
+        "mode": "offline"
+      },
+      {
+        "id": 5,
+        "course": "Cyber security",
+        "img": "https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg",
+        "description": "dshsf",
+        "mode": "online"
+      },
+      {
+        "id": 6,
+        "course": "Web development",
+        "img": "https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg",
+        "description": "dshsf",
+        "mode": "offline"
+      },
+      {
+        "id": 7,
+        "course": "Mobile development",
+        "img": "https://skill-india-dev.s3.ap-south-1.amazonaws.com/PROD/File/2215bebd-02e6-49f3-9477-6421208d77b4/19e4c56e-8ad9-40b6-8278-f565d6c28b8e.png?response-content-disposition=inline&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240417T104139Z&X-Amz-SignedHeaders=host&X-Amz-Expires=2000&X-Amz-Credential=AKIA3OJCFBJTPLAN4OGU%2F20240417%2Fap-south-1%2Fs3%2Faws4_requestX-Amz-Signature=42749b4b501ecf13ec963cd20d631492f3f60eccdfd42084173970e6c1e1538d",
+        "description": "dshsf",
+        "mode": "online"
+      }
+    ]
+  }
+  
+  

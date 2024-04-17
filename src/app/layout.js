@@ -1,6 +1,12 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-
+import Header from "./component/header";
+import CoursesTabs from "./component/coursesTabs";
+import Footer from "./component/footer";
+import CourseMotive from "./component/courseMotive";
+import OpportunitiesCard from "./component/opportunitiesCard";
+import Crousel1 from "./component/crousel1";
+import Courses from "./component/Courses";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -11,7 +17,16 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <Header />
+        <CoursesTabs />
+        <Courses />
+        <CourseMotive />
+        <OpportunitiesCard />
+        <Crousel1 />
+        <Footer />
+        {children}
+        </body>
     </html>
   );
 }
