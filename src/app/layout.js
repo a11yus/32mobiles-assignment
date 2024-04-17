@@ -6,8 +6,8 @@ import Footer from "./component/footer";
 import CourseMotive from "./component/courseMotive";
 import OpportunitiesCard from "./component/opportunitiesCard";
 import Crousel1 from "./component/crousel1";
-import Courses from "./component/Courses";
 const inter = Inter({ subsets: ["latin"] });
+import Courses from "./component/Courses";
 
 export const metadata = {
   title: "Create Next App",

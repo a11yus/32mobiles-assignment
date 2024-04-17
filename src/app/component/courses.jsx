@@ -19,6 +19,7 @@ const Courses = async () => {
   return (
     <>
       <h1 className="font-bold text-xl order-2 rounded-xl ml-4">Courses</h1>
+      
       <div className="flex gap-6 ml-4 mb-6">
       <Input 
       className="w-[300px]"
