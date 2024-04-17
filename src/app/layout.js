@@ -7,7 +7,7 @@ import CourseMotive from "./component/courseMotive";
 import OpportunitiesCard from "./component/opportunitiesCard";
 import Crousel1 from "./component/crousel1";
 const inter = Inter({ subsets: ["latin"] });
-import Courses from "./component/Courses";
+// import Courses from "./component/Courses";
 
 export const metadata = {
   title: "Create Next App",
@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <Header />
         <CoursesTabs />
-        <Courses />
+        {/* <Courses /> */}
         <CourseMotive />
         <OpportunitiesCard />
         <Crousel1 />
